@@ -1,4 +1,6 @@
-Haptic Interface Array: High-Fidelity Gesture Control
+Haptic Interface Array: High-Fidelity Gesture Control.
+
+
 This repository contains the firmware and hardware schematics for a Biometric Gesture Control Glove. The system utilizes an ESP32-based architecture to translate organic human hand movements into precise mechanical actuation with minimal latency.
 
 🚀 Key Features
