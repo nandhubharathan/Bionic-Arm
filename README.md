@@ -53,6 +53,7 @@ Flash both ESP32 boards and power the servo rail externally.
 
 📈 Future Roadmap
 
+Integration of myoware.
 Migration to ADC1-exclusive pin mapping to eliminate Bluetooth/ADC2 interference.
 
 Implementation of Non-Volatile Storage (NVS) to save calibration profiles.
